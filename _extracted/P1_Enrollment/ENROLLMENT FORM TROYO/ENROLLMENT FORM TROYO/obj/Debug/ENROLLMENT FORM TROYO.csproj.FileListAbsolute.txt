@@ -1,0 +1,22 @@
+c:\users\new user\onedrive\documents\visual studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\bin\Debug\ENROLLMENT FORM TROYO.exe.config
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT FORM TROYO.csprojResolveAssemblyReference.cache
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.Form1.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.Properties.Resources.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.UserRole.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT FORM TROYO.csproj.GenerateResource.Cache
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\bin\Debug\ENROLLMENT FORM TROYO.exe
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\bin\Debug\ENROLLMENT FORM TROYO.pdb
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT FORM TROYO.exe
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT FORM TROYO.pdb
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.SPAGE.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bsitview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.APAGE.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bsbaview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bsnview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bscjeview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bseview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bsenview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bshkview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.bsthmview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.shsview.resources
+C:\Users\New User\OneDrive\Documents\Visual Studio 2012\Projects\ENROLLMENT FORM TROYO\ENROLLMENT FORM TROYO\obj\Debug\ENROLLMENT_FORM_TROYO.TEACHER.resources
