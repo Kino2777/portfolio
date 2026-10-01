@@ -1,0 +1,6 @@
+.kilo/
+bin/
+obj/
+.vs/
+*.user
+*.suo
